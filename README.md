@@ -12,7 +12,7 @@ Bootcamp everis Fullstack Developer pela Digital Innovation One
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
 
-<p>
+<p align="center">
 O objetivo deste projeto é desenvolver uma API em Java com Spring Boot para efetuar testes unitários de validação num sistema de gerenciamento de estoques de cerveja.
 </p>
 
@@ -30,11 +30,11 @@ O objetivo deste projeto é desenvolver uma API em Java com Spring Boot para efe
  1. Reforçado os princípios REST e o modelo de maturidade de Richardson para RESTFull (Glory of REST).
  2. Apresentado a pirâmide de testes de software e os detalhes de cada nível:
       * Testes Unitários (custo menor) – menor unidade da aplicação, por exemplo, uma classe isolada.
-      * Testes de Integração(aumenta o custo) – para verificar se outra parte da aplicação não quebrará o código.
+      * Testes de Integração (aumenta o custo) – para verificar se outra parte da aplicação não quebrará o código.
       * Teste de Usabilidade (o custo mais alto) – teste de ponta a ponta.
  3. Teste de consumo da API com o Postman.
  4. Implentado testes unitários da aplicação.
- 5. Impementado breve a filosofia TDD (Test Driven Development).
+ 5. Implementado a filosofia TDD (Test Driven Development).
  6. Teste geral dos testes unitários.
 
 ## :rocket: Tecnologias
@@ -50,18 +50,18 @@ Estas foram as tecnologias utilizadas neste projeto:
  
 ## :books: Aprendizado
  - Revisado os principais conceitos e vantagens de se criar testes unitários.
- - Vantagens dos frameworks referência para testes: JUnit, Mockito e Hamcrest.
+ - Vantagens dos frameworks de referência para testes: JUnit, Mockito e Hamcrest.
  - A importância dos testes unitários dentro do desenvolvimento: maior número de testes, menor custo e menor tempo.
  - Visão prática do desenvolvimento de funcionalidades com a prática do TDD.
  
 ## :computer: Instalação
 1. Clone este repositório no seu computador:
 
-    `$ git clone https://github.com/clovisdanielcosta/beer-rest-api.git`
+    `$ git clone https://github.com/clovisdanielcosta/api-rest-beer.git`
 
 2. Digite num terminal:
 
-    `$ cd beer-rest-api`
+    `$ cd api-rest-beer`
 
 3. Para executar o projeto no terminal, digite o seguinte comando:
 
